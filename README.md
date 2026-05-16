@@ -1,16 +1,61 @@
-## Hi there 👋
+# Rithvik Mysore Suresh 👨‍💻
 
-<!--
-**rimysore/rimysore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer · AI/ML Enthusiast · CS @ Indiana University
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rimysore.dev-blue?style=flat-square)](https://rimysore.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rimysore-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rimysore)
+[![Email](https://img.shields.io/badge/📧_Email-rimysore@iu.edu-red?style=flat-square)](mailto:rimysore@iu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-rimysore-181717?style=flat-square&logo=github)](https://github.com/rimysore)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- **Full Stack Development:** End-to-end web applications with React, TypeScript, Node.js, and modern tooling
+- **AI/ML Integration:** RAG pipelines, vector search, LLM-powered features for real-world products
+- **Data & Analytics:** Fraud detection, data modeling, and ML-driven insights using Python & Jupyter
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it is | Tech / Focus |
+|---|---|---|
+| **[career-advisor](https://github.com/rimysore/career-advisor)** | Full stack AI-powered career transition advisor | JavaScript · RAG · Vector Search |
+| **[curasure-backend](https://github.com/rimysore/curasure-backend)** | Backend for Curasure platform | JavaScript · REST APIs |
+| **[curasure-frontend](https://github.com/rimysore/curasure-frontend)** | Frontend for Curasure platform | TypeScript · React |
+| **[Credit_Card_Fraud_Detection](https://github.com/rimysore/Credit_Card_Fraud_Detection)** | ML model for detecting fraudulent transactions | Python · Jupyter Notebook · Scikit-learn |
+| **[master-of-jokes](https://github.com/rimysore/master-of-jokes)** | Fun Python project | Python |
+| **[SocialMedia](https://github.com/rimysore/SocialMedia)** | Social media application | JavaScript |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript · TypeScript · Python · SQL
+
+**Frontend:** React · TypeScript · HTML/CSS
+
+**Backend:** Node.js · REST APIs
+
+**AI/ML:** RAG · Vector Search · LLM Integration · Scikit-learn
+
+**Tools:** Git · Jupyter Notebook · VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Rithvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimysore&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimysore&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🎓 Education
+
+**Indiana University Bloomington**
+B.S. Computer Science *(in progress)*
+
+---
+
+*Open to internships and collaborative projects. Let's build something great!*

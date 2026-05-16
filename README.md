@@ -27,6 +27,7 @@
 | **[Credit_Card_Fraud_Detection](https://github.com/rimysore/Credit_Card_Fraud_Detection)** | ML model for detecting fraudulent transactions | Python · Jupyter Notebook · Scikit-learn |
 | **[master-of-jokes](https://github.com/rimysore/master-of-jokes)** | Fun Python project | Python |
 | **[SocialMedia](https://github.com/rimysore/SocialMedia)** | Social media application | JavaScript |
+| **[Errand OS](https://github.com/rimysore/Optimal-Google-Map-Route-for-Running-Errands)** | AI Agentic route simulator | RAG | Langchain
 
 ---
 

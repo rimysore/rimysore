@@ -1,4 +1,4 @@
-# Rithvik Mysore Suresh 👨‍💻
+# Rithvik Mysore Suresh
 
 ### Full Stack Developer · AI/ML Enthusiast · CS @ Indiana University
 

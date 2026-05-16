@@ -44,12 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rithvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimysore&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimysore&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🎓 Education
 
@@ -58,4 +52,4 @@ B.S. Computer Science *(in progress)*
 
 ---
 
-*Open to internships and collaborative projects. Let's build something great!*
+

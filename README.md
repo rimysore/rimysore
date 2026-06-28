@@ -1,6 +1,6 @@
 # Rithvik Mysore Suresh
 
-### Full Stack Developer · AI/ML Enthusiast · CS @ Indiana University
+### Applied AI Engineer · RAGAS LLM · CS @ Indiana University
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rimysore.dev-blue?style=flat-square)](https://rithviksuresh.com/l)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rimysore-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rithvikms/)

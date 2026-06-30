@@ -3,7 +3,7 @@
 **AI Software Engineer** — agentic systems, RAG pipelines, full-stack platforms
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rithviksuresh.com-000000?style=flat-square&logo=vercel)](https://rithviksuresh.com)
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/rithvikms/)](https://www.linkedin.com/in/rithvikms/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rithvikms-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rithvikms/)
 [![Email](https://img.shields.io/badge/Email-rithviksit@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:rithviksit@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rimysore-181717?style=flat-square&logo=github)](https://github.com/rimysore)
 
